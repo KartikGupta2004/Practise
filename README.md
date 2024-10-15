@@ -1,1 +1,1 @@
-# Practise
+# Practise GITHUB Workshop
